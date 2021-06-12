@@ -1,1 +1,1 @@
-This directory is for the Ruby portion of Launch School
+This directory is for the LS book - Introduction to programming with Ruby
