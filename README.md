@@ -1,0 +1,1 @@
+This directory is for the Ruby portion of Launch School
